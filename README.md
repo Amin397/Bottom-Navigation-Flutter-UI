@@ -1,21 +1,9 @@
-<<<<<<< HEAD
-# bottomnavigationbar
+Bottomnavigationbar
 
 A new Flutter application.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
 # Bottom-Navigation-Flutter-UI
 Beautiful bottom navigation animation in flutter UI
->>>>>>> f709391a4b671601590788f2f90c80fa59682931
+
+
+![Screenshot_1590259133](https://user-images.githubusercontent.com/51218670/82752832-0d4e0300-9dd6-11ea-9706-ba9b859bd171.png)
